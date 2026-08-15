@@ -94,7 +94,7 @@
 
         .blink {
             animation: blink 1s steps(2, start) infinite;
-            color: lime;
+            color: red;
         }
 
         @keyframes blink {
@@ -133,7 +133,7 @@
             <a href="https://www.youtube.com/@Black_Parade_4_Life" style="color: #cc99ff;">My YouTube</a><br>
             <a href="https://www.instagram.com/guitar.junk/" style="color: #cc99ff;">My Instagram</a><br><br>
 
-            <span class="blink">★ ONLINE ★</span>
+            <span class="blink">★ OFFLINE ★</span>
             <p>You can reach me on Discord. I'm pretty much always online :p (black_parade_4_life)</p>
         </div>
 
