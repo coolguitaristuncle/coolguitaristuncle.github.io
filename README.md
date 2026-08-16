@@ -94,7 +94,7 @@
 
         .blink {
             animation: blink 1s steps(2, start) infinite;
-            color: red;
+            color: lime;
         }
 
         @keyframes blink {
@@ -198,6 +198,14 @@
 
     </div>
 </div>
+
+<div style="position: relative; width: 100%; height: 400px; border: 1px solid black;">
+  <!-- This GIF will float exactly 20 pixels from the top and 20 pixels from the right of this box -->
+  <img src="https://codehs.com/uploads/8a7320f194800ba216f413803caf589b" alt="Floating GIF" style="position: absolute; top: 20px; right: 20px; width: 80px;">
+  
+  <p>This is normal page text. The absolute GIF floats completely independently over or around this content.</p>
+</div>
+
 
 </body>
 </html>
