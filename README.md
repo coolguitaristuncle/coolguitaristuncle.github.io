@@ -133,7 +133,7 @@
             <a href="https://www.youtube.com/@Black_Parade_4_Life" style="color: #cc99ff;">My YouTube</a><br>
             <a href="https://www.instagram.com/guitar.junk/" style="color: #cc99ff;">My Instagram</a><br><br>
 
-            <span class="blink">★ OFFLINE ★</span>
+            <span class="blink">★ ONLINE ★</span>
             <p>You can reach me on Discord. I'm pretty much always online :p (black_parade_4_life)</p>
         </div>
 
